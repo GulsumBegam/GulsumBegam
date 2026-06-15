@@ -263,9 +263,10 @@ I'm actively looking for **Full-Stack Developer** roles where I can build AI-pow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulsumbegam)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulsumbegamofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://heartcrafted-guls.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://gulsumbegam.github.io/portfolioGuls/)
 [![Moon AI](https://img.shields.io/badge/Moon_AI_Chatbot-Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://moonaichatbot.vercel.app)
 [![Chess](https://img.shields.io/badge/Royal_Mind_Arena-Play_Now-F59E0B?style=for-the-badge&logo=vercel&logoColor=white)](https://royal-mind-arena.vercel.app)
+[![Heartcrafted Website](https://img.shields.io/badge/Heartcrafted-Website(Live Demo)-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](heartcrafted-guls.vercel.app)
 
 <br/>
 
