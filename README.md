@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://gulsumbegam.github.io/portfolioGuls/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://gulsumbegam.github.io/portfolioGuls/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulsumbegam)
 [![Email](https://img.shields.io/badge/Email-gulsumbegamofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulsumbegamofficial@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Virudhunagar,_Tamil_Nadu-Available_to_Join_Immediately-06B6D4?style=for-the-badge)](https://github.com/GulsumBegam)
